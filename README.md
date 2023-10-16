@@ -42,6 +42,6 @@
 📢 **Languages:** `Portuguese (C2)` `English (C1)` `Spanish (B1)` `French (A1)`
 
 ### 🔗 Let's stay in touch!
-- [LinkedIn](https://www.linkedin.com/in/grmiranda/)
+- [linkedin.com/in/grmiranda](https://www.linkedin.com/in/grmiranda/)
 - [gabriel-resende@outlook.com](mailto:gabriel-resende@outlook.com)
-- [Lattes](http://lattes.cnpq.br/4281670132704841)
+- [CV Lattes](http://lattes.cnpq.br/4281670132704841)
