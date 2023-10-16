@@ -44,4 +44,8 @@
 ### 🔗 Let's stay in touch!
 - [linkedin.com/in/grmiranda](https://www.linkedin.com/in/grmiranda/)
 - [gabriel-resende@outlook.com](mailto:gabriel-resende@outlook.com)
+
+### 📄 Resume
+- [English](https://drive.google.com/file/d/1Mfx8AV6GMAhFc22uOF880bH-Q2zhC3Az/view?usp=sharing)
+- [Português](https://drive.google.com/file/d/14rNlQjgJvE-SX0ITScvoVoqumKAlyFC7/view?usp=sharing)
 - [CV Lattes](http://lattes.cnpq.br/4281670132704841)
