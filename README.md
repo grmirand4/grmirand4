@@ -41,11 +41,19 @@
 
 📢 **Languages:** `Portuguese (C2)` `English (C1)` `Spanish (B1)` `French (A1)`
 
-### 🔗 Contact me!
-- [linkedin.com/in/grmiranda](https://www.linkedin.com/in/grmiranda/)
-- [gabriel-resende@outlook.com](mailto:gabriel-resende@outlook.com)
-
 ### 📄 Resume
-- [English](https://drive.google.com/file/d/1Mfx8AV6GMAhFc22uOF880bH-Q2zhC3Az/view?usp=sharing)
-- [Português](https://drive.google.com/file/d/14rNlQjgJvE-SX0ITScvoVoqumKAlyFC7/view?usp=sharing)
-- [CV Lattes](http://lattes.cnpq.br/4281670132704841)
+<a href="https://drive.google.com/file/d/1Mfx8AV6GMAhFc22uOF880bH-Q2zhC3Az/view?usp=sharing">`EN`</a>
+<a href="https://drive.google.com/file/d/14rNlQjgJvE-SX0ITScvoVoqumKAlyFC7/view?usp=sharing">`PT`</a>
+<a href="http://lattes.cnpq.br/4281670132704841">`Lattes`</a>
+
+### 🔗 Contact me!
+
+<a href="https://www.linkedin.com/in/grmiranda/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+</a>
+
+<br>
+
+<a href="mailto:gabriel-resende@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px" target="_blank">
+</a>
