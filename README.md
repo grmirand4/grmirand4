@@ -5,7 +5,7 @@
 🌟 Passionate Data Scientist dedicated to transforming data into valuable insights.<br>
 🎓 B.Sc. and Lic. in Physics.<br>
 💻 I have over 3 years of experience in Python development for data acquisition, processing, and analysis.<br>
-🧠 My hobbies and interests include: Astrophysics, [Photography](https://www.flickr.com/photos/gabrielresend3/), Hiking, Languages and Culture in general.
+🧠 My hobbies and interests include: astrophysics, [photography](https://www.flickr.com/photos/gabrielresend3/), numismatics, languages and culture in general.
 
 ### 📚 Education
 
@@ -57,3 +57,10 @@
 <a href="mailto:gabriel-resende@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px" target="_blank">
 </a>
+
+<hr>
+
+### 🚧 Check out my latest Data Science projects!
+
+- [[PT] Análise exploratória: série temporal dos preços de combustíveis e de tributações estaduais (2018.1 a 2023.2)](https://github.com/grmirand4/sc2023-analise-exploratoria-combustiveis-tributos)
+- [[PT] Análise exploratória: série temporal dos dados de postagem de uma empresa de logística do estado do RJ (2023-01 a 2023-09)](https://github.com/grmirand4/sc2023-analise-exploratoria-logistica-rj)
