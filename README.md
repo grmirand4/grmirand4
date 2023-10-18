@@ -5,7 +5,7 @@
 🌟 Passionate Data Scientist dedicated to transforming data into valuable insights.<br>
 🎓 B.Sc. and Lic. in Physics.<br>
 💻 I have over 3 years of experience in Python development for data acquisition, processing, and analysis.<br>
-🧠 My hobbies and interests include: astrophysics, [photography](https://www.flickr.com/photos/gabrielresend3/), numismatics, languages and culture in general.
+🧠 My hobbies and interests include: astrophysics, [photography](https://www.flickr.com/photos/gabrielresend3/), numismatics, languages, culture in general, and, of course, playing with data!
 
 ### 📚 Education
 
