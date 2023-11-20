@@ -43,7 +43,7 @@
 
 ### 📄 Resume
 <a href="https://drive.google.com/file/d/1Mfx8AV6GMAhFc22uOF880bH-Q2zhC3Az/view?usp=sharing">`EN`</a>
-<a href="https://drive.google.com/file/d/14rNlQjgJvE-SX0ITScvoVoqumKAlyFC7/view?usp=sharing">`PT`</a>
+<a href="https://drive.google.com/file/d/1OtwEw0i_ODyPOZmnjaOP_iR7ygrDenmi/view?usp=sharing">`PT`</a>
 <a href="http://lattes.cnpq.br/4281670132704841">`Lattes`</a>
 
 ### 🔗 Contact me!
