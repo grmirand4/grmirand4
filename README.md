@@ -63,5 +63,9 @@
 ### 🚧 Check out my latest Data Science projects!
 
 - [[PT] Análise exploratória: série temporal dos preços de combustíveis e de tributações estaduais (2018.1 a 2023.2)](https://github.com/grmirand4/sc2023-analise-exploratoria-combustiveis-tributos)
+  
 - [[PT] Análise exploratória: série temporal dos dados de postagem de uma empresa de logística do estado do RJ (2023-01 a 2023-09)](https://github.com/grmirand4/sc2023-analise-exploratoria-logistica-rj)
+  
 - [[PT] Detecção de fraude em transações de cartões de crédito utilizando modelos classificatórios de Machine Learning (KNN, Decision Tree, Random Forest e Gradient Boosting)](https://github.com/grmirand4/sc2023-deteccao-fraude-machine-learning)
+  
+- [[PT] Analisando e determinando perfis de clientes com base em dados sintéticos de uma campanha de marketing](https://github.com/grmirand4/sc2023-perfil-clientes-machine-learning)
