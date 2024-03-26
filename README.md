@@ -23,6 +23,10 @@
 
 ### 👨‍💻 Experience
 
+- **Brazilian Physical Society** | Tutor (OBFEP) | Jul 2017 - Present
+  - Expanded OBFEP's reach through social media and website management.
+  - Led recruitment efforts and taught classes, preparing students for the Physics Olympiad.
+    
 - **Observatório Nacional (Brazil)** | Undergraduate Researcher | Sep 2022 - Aug 2023  
   - Worked on outlier detection and exploratory analysis for astronomical data.
   - Developed a Python pipeline for Active Asteroids identification.
