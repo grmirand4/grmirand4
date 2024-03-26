@@ -73,3 +73,9 @@
 - [[PT] Detecção de fraude em transações de cartões de crédito utilizando modelos classificatórios de Machine Learning (KNN, Decision Tree, Random Forest e Gradient Boosting)](https://github.com/grmirand4/sc2023-deteccao-fraude-machine-learning)
   
 - [[PT] Analisando e determinando perfis de clientes com base em dados sintéticos de uma campanha de marketing (K-means, SVM, XGBoost)](https://github.com/grmirand4/sc2023-perfil-clientes-machine-learning)
+
+### 🖱️ Websites I developed
+
+- [OBFEP - Olimpíadas Brasileira de Física das Escolas Públicas](https://www.sbfisica.org.br/~obfep/)
+  
+- [OBFEP Bahia - Olimpíadas Brasileira de Física das Escolas Públicas (Seção Bahia)](http://www.obfba.fis.ufba.br/obfep_/)
