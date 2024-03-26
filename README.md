@@ -39,7 +39,7 @@
   - Maintained the student and staff management system.
   - Created controlling reports optimizing third-party services.
 
-⚒️ **Hard Skills:** `Mathematics` `Statistics` `Python` `SQL` `Machine Learning`
+⚒️ **Hard Skills:** `Mathematics` `Statistics` `Physics` `Python` `SQL` `Machine Learning`
 
 🌐 **Soft Skills:** `Analytical thinking` `Critical thinking` `Adaptability` `Storytelling` `Communication`
 
