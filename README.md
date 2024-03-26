@@ -74,7 +74,7 @@
   
 - [[PT] Analisando e determinando perfis de clientes com base em dados sintéticos de uma campanha de marketing (K-means, SVM, XGBoost)](https://github.com/grmirand4/sc2023-perfil-clientes-machine-learning)
 
-### 🖱️ Websites I developed
+### 🖱️ Websites I develop/manage
 
 - [OBFEP - Olimpíadas Brasileira de Física das Escolas Públicas](https://www.sbfisica.org.br/~obfep/)
   
