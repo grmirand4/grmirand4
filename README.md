@@ -2,14 +2,18 @@
 
 ### Who am I?
 
-🌟 Passionate Data Scientist dedicated to transforming data into valuable insights.<br>
+🌟 Passionate Physicist and Data Scientist in training dedicated to transforming data into valuable insights.<br>
+🔭 Master's student in Physics, specializing in Observational Cosmology with a focus on Machine Learning.<br>
 🎓 B.Sc. and Lic. in Physics.<br>
 💻 I have over 3 years of experience in Python development for data acquisition, processing, and analysis.<br>
-🧠 My hobbies and interests include: astrophysics, [photography](https://www.flickr.com/photos/gabrielresend3/), numismatics, languages, culture in general, and, of course, playing with data!
+🧠 My hobbies and interests include: astronomy, education, [photography](https://www.flickr.com/photos/gabrielresend3/), numismatics, languages, culture in general, and, of course, playing with data!
 
 ### 📚 Education
 
 - **UFBA - Federal University of Bahia**  
+  M.Sc. in Physics | Aug 2024 - Present
+  - Specializing in Observational Cosmology.
+
   B.Sc. and Lic. in Physics | May 2017 - Jul 2023  
   - Developed a project on Spectroscopy that competed for the UFBA Undergraduate Research Award 2021.
 
@@ -23,6 +27,13 @@
 
 ### 👨‍💻 Experience
 
+- **UFBA's Planetarium and Observatory** | Planetarist | Sep 2024 - Present
+  - Conducted educational presentations on Astronomy, engaging hundreds of attendees in each session.
+  - Led public observational sessions using telescopes, fostering hands-on learning and interest in astronomical phenomena.
+
+- **UFBA - Federal University of Bahia** | Master's Researcher | Aug 2024 - Present
+  - Developing Machine Learning tools for the J-PAS collaboration, focusing on the study of galaxy identification.
+    
 - **Brazilian Physical Society** | Tutor (OBFEP) | Jul 2017 - Present
   - Expanded OBFEP's reach through social media and website management.
   - Led recruitment efforts and taught classes, preparing students for the Physics Olympiad.
@@ -39,7 +50,7 @@
   - Maintained the student and staff management system.
   - Created controlling reports optimizing third-party services.
 
-⚒️ **Hard Skills:** `Mathematics` `Statistics` `Physics` `Python` `SQL` `Machine Learning`
+⚒️ **Hard Skills:** `Mathematics` `Statistics` `Physics` `Astronomy` `Python` `SQL` `Machine Learning`
 
 🌐 **Soft Skills:** `Analytical thinking` `Critical thinking` `Adaptability` `Storytelling` `Communication`
 
