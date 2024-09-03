@@ -27,12 +27,12 @@
 
 ### 👨‍💻 Experience
 
-- **UFBA's Planetarium and Observatory** | Planetarist | Sep 2024 - Present
-  - Conducted educational presentations on Astronomy, engaging hundreds of attendees in each session.
-  - Led public observational sessions using telescopes, fostering hands-on learning and interest in astronomical phenomena.
-
 - **UFBA - Federal University of Bahia** | Master's Researcher | Aug 2024 - Present
   - Developing Machine Learning tools for the J-PAS collaboration, focusing on the study of galaxy identification.
+    
+- **UFBA's Planetarium and Observatory** | Planetarist | May 2024 - Present
+  - Conducted educational presentations on Astronomy, engaging hundreds of attendees in each session.
+  - Led public observational sessions using telescopes, fostering hands-on learning and interest in astronomical phenomena.
     
 - **Brazilian Physical Society** | Tutor (OBFEP) | Jul 2017 - Present
   - Expanded OBFEP's reach through social media and website management.
