@@ -2,17 +2,17 @@
 
 ### Who am I?
 
-🌟 Passionate Physicist and Data Scientist in training dedicated to transforming data into valuable insights.<br>
-🔭 Master's student in Physics, specializing in Observational Cosmology with a focus on Machine Learning.<br>
+🔭 Master's researcher in Physics, specializing in Observational Cosmology with a focus on Machine Learning.<br>
 🎓 B.Sc. and Lic. in Physics.<br>
-💻 I have over 3 years of experience in Python development for data acquisition, processing, and analysis.<br>
-🧠 My hobbies and interests include: astronomy, education, [photography](https://www.flickr.com/photos/gabrielresend3/), numismatics, languages, culture in general, and, of course, playing with data!
+💻 4+ years of experience in Python for scientific software development, data acquisition, processing, and analysis.<br>
+🌟 Interested in Data Science, Astronomy and Education.<br>
+🧠 My hobbies include: [photography](https://www.flickr.com/photos/gabrielresend3/), numismatics, languages, culture in general, and stargazing.
 
 ### 📚 Education
 
 - **UFBA - Federal University of Bahia**  
   M.Sc. in Physics | Aug 2024 - Present
-  - Specializing in Observational Cosmology.
+  - Specializing in Observational Cosmology and astronomical data analysis using AI.
 
   B.Sc. and Lic. in Physics | May 2017 - Jul 2023  
   - Developed a project on Spectroscopy that competed for the UFBA Undergraduate Research Award 2021.
@@ -28,7 +28,8 @@
 ### 👨‍💻 Experience
 
 - **UFBA - Federal University of Bahia** | Master's Researcher | Aug 2024 - Present
-  - Developing Machine Learning tools for the J-PAS collaboration, focusing on the study of galaxy identification.
+  - Active member of the [J-PAS collaboration](https://www.j-pas.org/), contributing to the Data Validation team.
+  - Currently developing Machine Learning tools for star-galaxy classification.
     
 - **UFBA's Planetarium and Observatory** | Planetarist | May 2024 - Present
   - Conducted educational presentations on Astronomy, engaging hundreds of attendees in each session.
@@ -50,15 +51,15 @@
   - Maintained the student and staff management system.
   - Created controlling reports optimizing third-party services.
 
-⚒️ **Hard Skills:** `Mathematics` `Statistics` `Physics` `Astronomy` `Python` `SQL` `Machine Learning`
+⚒️ **Hard Skills:** `Physics` `Astronomy` `Statistics` `Mathematics` `Python` `SQL` `Machine Learning`
 
 🌐 **Soft Skills:** `Analytical thinking` `Critical thinking` `Adaptability` `Storytelling` `Communication`
 
 📢 **Languages:** `Portuguese (C2)` `English (C1)` `Spanish (B1)` `French (A1)`
 
 ### 📄 Resume
-<a href="https://drive.google.com/file/d/11P5NVKAQTdghJ2utpEouBtwUunbOIihF/view?usp=sharing">`EN`</a>
-<a href="https://drive.google.com/file/d/1oj6jTHUKKXLic1WxYx-yDbaIZkfK0onn/view?usp=sharing">`PT`</a>
+<!-- <a href="https://drive.google.com/file/d/11P5NVKAQTdghJ2utpEouBtwUunbOIihF/view?usp=sharing">`EN`</a> -->
+<!-- <a href="https://drive.google.com/file/d/1oj6jTHUKKXLic1WxYx-yDbaIZkfK0onn/view?usp=sharing">`PT`</a> -->
 <a href="http://lattes.cnpq.br/4281670132704841">`Lattes`</a>
 
 ### 🔗 Contact me!
@@ -74,6 +75,10 @@
 </a>
 
 <hr>
+
+### 🔍 Research repositories
+
+- [[EN] Developing Machine Learning tools for J-PAS](https://github.com/grmirand4/ai-jpas)
 
 ### 🚧 Check out my latest Data Science projects!
 
