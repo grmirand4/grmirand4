@@ -78,7 +78,7 @@
 
 ### 🔍 Research repositories
 
-- [[EN] Developing Machine Learning tools for J-PAS](https://github.com/grmirand4/ai-jpas)
+- [[EN] Developing Machine Learning tools for J-PAS](https://github.com/grmirand4/Gabriel-Mestrado)
 
 ### 🚧 Check out my latest Data Science projects!
 
