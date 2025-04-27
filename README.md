@@ -11,7 +11,7 @@
 ### 📚 Education
 
 - **UFBA - Federal University of Bahia**  
-  M.Sc. in Physics | Aug 2024 - Present
+  M.Sc. in Physics | Sep 2024 - Present
   - Specializing in Observational Cosmology and astronomical data analysis using AI.
 
   B.Sc. and Lic. in Physics | May 2017 - Jul 2023  
