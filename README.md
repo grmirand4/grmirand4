@@ -51,11 +51,11 @@
   - Maintained the student and staff management system.
   - Created controlling reports optimizing third-party services.
 
-⚒️ **Hard Skills:** `Physics` `Astronomy` `Statistics` `Mathematics` `Python` `SQL` `Machine Learning`
+⚒️ **Hard Skills:** `Physics` `Astronomy` `Cosmology` `Statistics` `Mathematics` `Python` `SQL` `Machine Learning` `Deep Learning`
 
 🌐 **Soft Skills:** `Analytical thinking` `Critical thinking` `Adaptability` `Storytelling` `Communication`
 
-📢 **Languages:** `Portuguese (C2)` `English (C1)` `Spanish (B1)` `French (A1)`
+📢 **Languages:** `Portuguese (C2)` `English (C1)` `Spanish (B1)`
 
 ### 📄 Resume
 <!-- <a href="https://drive.google.com/file/d/11P5NVKAQTdghJ2utpEouBtwUunbOIihF/view?usp=sharing">`EN`</a> -->
