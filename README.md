@@ -58,8 +58,8 @@
 📢 **Languages:** `Portuguese (C2)` `English (C1)` `Spanish (B1)`
 
 ### 📄 Resume
-<a href="https://drive.google.com/file/d/1rtaOuCQO4Ofzq_QKqK9f4Zi5xjiSWukq/view?usp=sharing">`EN`</a>
-<a href="https://drive.google.com/file/d/16Y1G0sc2tuNbJAKN5AG-rKI7mzCbS0hZ/view?usp=sharing">`PT`</a>
+<a href="https://drive.google.com/file/d/1WRZrnrGvD-7Y4vCHvOQoP8S6txgHy9Zx/view?usp=sharing">`EN`</a>
+<a href="https://drive.google.com/file/d/1cUa673eQZ1pgASV-BfnHoJjv5399nxtc/view?usp=sharing">`PT`</a>
 <a href="http://lattes.cnpq.br/4281670132704841">`Lattes`</a>
 
 ### 🔗 Contact me!
